@@ -1,0 +1,25 @@
+{
+  "name": "apple-replica",
+  "version": "1.0.0",
+  "description": "A replication of Apple website",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surayani02/apple-replica.git"
+  },
+  "keywords": [],
+  "author": "Surajit Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surayani02/apple-replica/issues"
+  },
+  "homepage": "https://github.com/Surayani02/apple-replica#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  }
+}
