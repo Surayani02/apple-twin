@@ -1,7 +1,7 @@
 # Apple Replica
 
 - This site is a clone of Apple's original website back then when Apple first launched iPhone 11 Pro. I have coded only
-  a small portion of the whole website.
+  a small portion of the whole website. Watch live [here](https://apple-twin.netlify.app).
 
 ## Technologies Used
 
